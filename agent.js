@@ -4,7 +4,7 @@ class Agent {
     this.color = color(0, 0, 0);
     this.angle = ANGLE;
     this.smoothAngle = ANGLE;
-    this.speed = 3;
+    this.speed = 4;
     this.baseSpeed = 3;
     this.separationRadius = 30;
     this.alignmentRadius = 250;
