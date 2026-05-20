@@ -8,7 +8,7 @@ class Agent {
     this.baseSpeed = 3;
     this.separationRadius = 30;
     this.alignmentRadius = 250;
-    this.cohesionRadius = 250;
+    this.cohesionRadius = 300;
     this.baseSeparationRadius = 30;
     this.baseAlignmentRadius = 250;
     this.baseCohesionRadius = 250;
