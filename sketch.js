@@ -1,4 +1,4 @@
-const AGENT_COUNT = 300;
+const AGENT_COUNT = 500;
 const SIMULATION_PADDING = 50;
 
 let agents = [];
